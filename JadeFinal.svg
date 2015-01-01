@@ -18,35 +18,43 @@
   <defs
      id="defs4">
     <filter
-       id="filter3863"
-       inkscape:label="Drop Shadow"
+       id="filter3045"
+       inkscape:label="Inner Shadow"
+       inkscape:menu="Shadows and Glows"
+       inkscape:menu-tooltip="Adds a colorizable drop shadow inside"
        color-interpolation-filters="sRGB">
-      <feFlood
-         id="feFlood3865"
-         flood-opacity="0.55645161290322576"
-         flood-color="rgb(0,0,0)"
-         result="flood" />
-      <feComposite
-         id="feComposite3867"
-         in2="SourceGraphic"
-         in="flood"
-         operator="in"
-         result="composite1" />
       <feGaussianBlur
-         id="feGaussianBlur3869"
-         stdDeviation="1.02"
-         result="blur" />
+         id="feGaussianBlur3047"
+         stdDeviation="0.69999999999999996"
+         result="result8" />
       <feOffset
-         id="feOffset3871"
+         id="feOffset3049"
          dx="0"
-         dy="-0.86956521739129755"
-         result="offset" />
+         dy="0.90000000000000002"
+         result="result11" />
       <feComposite
-         id="feComposite3873"
-         operator="over"
-         result="composite2"
+         id="feComposite3051"
+         in2="result11"
+         result="result6"
          in="SourceGraphic"
-         in2="offset" />
+         operator="in" />
+      <feFlood
+         id="feFlood3053"
+         result="result10"
+         in="result6"
+         flood-opacity="0.94117647058823528"
+         flood-color="rgb(0,0,0)" />
+      <feBlend
+         id="feBlend3055"
+         in2="result10"
+         mode="normal"
+         in="result6"
+         result="result12" />
+      <feComposite
+         id="feComposite3057"
+         in2="SourceGraphic"
+         result="result2"
+         operator="in" />
     </filter>
   </defs>
   <sodipodi:namedview
@@ -57,8 +65,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="2.4457576"
-     inkscape:cx="121.72777"
-     inkscape:cy="67.585034"
+     inkscape:cx="113.14147"
+     inkscape:cy="34.875333"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -80,7 +88,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -97,7 +105,7 @@
        x="672.57318"
        y="690.03351" />
     <g
-       style="font-size:60.63523101999999909px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:3.90000010000000019px;word-spacing:0px;fill:#f7f5ff;fill-opacity:1;stroke:none;filter:url(#filter3863);font-family:Merriweather;-inkscape-font-specification:Merriweather"
+       style="font-size:60.63523101999999909px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:3.90000010000000019px;word-spacing:0px;fill:#f7f5ff;fill-opacity:1;stroke:none;font-family:Merriweather;-inkscape-font-specification:Merriweather;filter:url(#filter3045)"
        id="text3015"
        transform="matrix(1.1388486,0,0,1.1388486,-93.090223,-116.30836)">
       <path
