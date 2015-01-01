@@ -1,0 +1,138 @@
+
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="217.87302"
+   height="123.51274"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="drawing.svg">
+  <defs
+     id="defs4">
+    <filter
+       id="filter3863"
+       inkscape:label="Drop Shadow"
+       color-interpolation-filters="sRGB">
+      <feFlood
+         id="feFlood3865"
+         flood-opacity="0.55645161290322576"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite3867"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur3869"
+         stdDeviation="1.02"
+         result="blur" />
+      <feOffset
+         id="feOffset3871"
+         dx="0"
+         dy="-0.86956521739129755"
+         result="offset" />
+      <feComposite
+         id="feComposite3873"
+         operator="over"
+         result="composite2"
+         in="SourceGraphic"
+         in2="offset" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.4457576"
+     inkscape:cx="112.39034"
+     inkscape:cy="52.484014"
+     inkscape:document-units="px"
+     inkscape:current-layer="text3015"
+     showgrid="false"
+     fit-margin-top="-9"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1301"
+     inkscape:window-height="744"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-670.44418,-714.15053)">
+    <g
+       style="font-size:60.63523102px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:3.9000001px;word-spacing:0px;fill:#f7f7f7;fill-opacity:1;stroke:none;filter:url(#filter3863);font-family:Merriweather;-inkscape-font-specification:Merriweather"
+       id="text3015">
+      <path
+         d="m 699.00142,755.0761 -8.74864,0 0,71.54444 8.74864,0 0,-71.54444 m -4.37432,-26.92637 c -3.30504,0 -6.02684,2.7218 -6.02684,6.12405 0,3.30504 2.7218,5.92963 6.02684,5.92963 3.30504,0 6.02684,-2.62459 6.02684,-5.92963 0,-3.40225 -2.7218,-6.12405 -6.02684,-6.12405"
+         style="font-size:97.20711517px;font-weight:500;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#f7f7f7;font-family:Futura Std;-inkscape-font-specification:Futura Std Medium"
+         id="path3896" />
+      <path
+         d="m 733.82597,794.34778 c -9.23466,0 -14.38665,-7.971 -14.38665,-16.52521 0,-8.45701 5.3464,-16.3308 14.38665,-16.3308 9.42908,0 14.77548,7.48496 14.77548,16.3308 0,8.94304 -5.24919,16.52521 -14.77548,16.52521 m 23.03809,-39.27168 -8.74864,0 0,7.58216 -0.19442,0 c -3.59666,-5.4436 -9.04026,-8.94306 -15.74755,-8.94306 -13.22015,0 -21.48277,11.37325 -21.48277,23.81574 0,13.02574 7.87379,24.5934 21.77439,24.5934 6.51287,0 11.95648,-3.49946 15.45593,-8.65143 l 0.19442,0 0,7.09612 8.74864,0 0,-45.49293"
+         style="font-size:97.20711517px;font-weight:500;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#f7f7f7;font-family:Futura Std;-inkscape-font-specification:Futura Std Medium"
+         id="path3898" />
+      <path
+         d="m 791.8354,794.34778 c -9.23467,0 -14.38665,-7.971 -14.38665,-16.52521 0,-8.45701 5.3464,-16.3308 14.38665,-16.3308 9.42908,0 14.77548,7.48496 14.77548,16.3308 0,8.94304 -5.24919,16.52521 -14.77548,16.52521 m 14.28945,6.22125 8.74864,0 0,-84.37578 -8.74864,0 0,46.46501 -0.19442,0 c -3.59666,-5.4436 -9.04027,-8.94306 -15.84476,-8.94306 -13.12295,0 -21.38556,11.37325 -21.38556,23.81574 0,13.02574 7.77658,24.5934 21.77439,24.5934 6.41566,0 11.95648,-3.49946 15.45593,-8.65143 l 0.19442,0 0,7.09612"
+         style="font-size:97.20711517px;font-weight:500;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#f7f7f7;font-family:Futura Std;-inkscape-font-specification:Futura Std Medium"
+         id="path3900" />
+      <path
+         d="m 870.16111,779.28067 0,-1.3609 c 0,-13.51177 -6.80451,-24.20457 -21.28836,-24.20457 -14.67826,0 -22.16322,10.49838 -22.16322,24.49619 0,13.41457 8.45703,23.91295 22.35764,23.91295 8.84583,0 16.81683,-4.56874 21.09394,-12.44251 l -7.38774,-4.1799 c -3.30504,5.44359 -6.90171,8.84585 -13.609,8.84585 -8.3598,0 -13.60899,-7.29055 -13.7062,-15.06711 l 34.70294,0 m -34.2169,-6.61008 c 1.06927,-6.51287 6.12405,-11.37323 12.92854,-11.37323 6.99891,0 11.47044,4.56874 12.53972,11.37323 l -25.46826,0"
+         style="font-size:97.20711517px;font-weight:500;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#f7f7f7;font-family:Futura Std;-inkscape-font-specification:Futura Std Medium"
+         id="path3902" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Merriweather;-inkscape-font-specification:Merriweather"
+       x="38.214287"
+       y="108.51274"
+       id="text3887"
+       sodipodi:linespacing="125%"
+       transform="translate(670.44418,714.15053)"><tspan
+         sodipodi:role="line"
+         id="tspan3889"
+         x="38.214287"
+         y="108.51274"
+         style="font-size:16px;-inkscape-font-specification:Nimbus Sans L;font-family:Nimbus Sans L;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;letter-spacing:0.18px">Node Template Engine</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Merriweather;-inkscape-font-specification:Merriweather"
+       x="196.25821"
+       y="128.4192"
+       id="text3891"
+       sodipodi:linespacing="125%"
+       transform="translate(670.44418,714.15053)"><tspan
+         sodipodi:role="line"
+         id="tspan3893"
+         x="196.25821"
+         y="128.4192" /></text>
+  </g>
+</svg>
