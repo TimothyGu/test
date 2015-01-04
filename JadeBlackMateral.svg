@@ -90,24 +90,20 @@
      transform="translate(-672.57321,-691.00516)">
     <g
        transform="matrix(2.6869311,0,0,2.6869311,-653.6705,-1377.3797)"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#212121;fill-opacity:1;stroke:none;filter:url(#filter4055);letter-spacing:1.11651539999999994px;font-family:Futura Std;-inkscape-font-specification:Futura Std Bold"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;filter:url(#filter4055);letter-spacing:1.11651539999999994px;font-family:Futura Std;-inkscape-font-specification:Futura Std Bold"
        id="text3016">
       <path
          d="m 507.56207,787.27962 -5.6,0 0,30.12 5.6,0 0,-30.12 m -2.8,-11.56 c -1.84,0 -3.32,1.52 -3.32,3.32 0,1.83999 1.48,3.32 3.32,3.32 1.84,0 3.32,-1.48001 3.32,-3.32 0,-1.8 -1.48,-3.32 -3.32,-3.32"
-         id="path50"
-         style="fill:#212121;fill-opacity:1" />
+         id="path50" />
       <path
          d="m 531.51483,787.27962 -5.52,0 0,1.84 c -1.36,-1.6 -3.44,-2.48 -5.48,-2.48 -5.63999,0 -8.96,5.16 -8.96,10.36 0,5.31999 3.28001,10.56 9.04,10.56 2.04,0 4.12,-0.88 5.32,-2.44 l 0.08,0 0,1.8 5.52,0 0,-19.64 m -9.64,15.32 c -2.87999,0 -4.64,-2.88001 -4.64,-5.52 0,-2.64 1.76001,-5.48 4.64,-5.48 2.88,0 4.68,2.84 4.68,5.48 0,2.63999 -1.8,5.52 -4.68,5.52"
-         id="path52"
-         style="fill:#212121;fill-opacity:1" />
+         id="path52" />
       <path
          d="m 549.64948,806.91962 5.6,0 0,-33.92 -5.6,0 0,16.08 -0.08,0 c -1.24,-1.56 -3.32001,-2.44 -5.36,-2.44 -5.64,0 -8.96,5.16 -8.96,10.36 0,5.31999 3.28,10.56 9.04,10.56 2.03999,0 4.12,-0.88 5.28,-2.48 l 0.08,0 0,1.84 m -4.08,-4.32 c -2.88,0 -4.64,-2.88001 -4.64,-5.52 0,-2.64 1.76,-5.48 4.64,-5.48 2.87999,0 4.64,2.84 4.64,5.48 0,2.63999 -1.76001,5.52 -4.64,5.52"
-         id="path54"
-         style="fill:#212121;fill-opacity:1" />
+         id="path54" />
       <path
          d="m 577.78411,797.99962 0,-0.68 c 0,-5.92 -2.88,-10.68 -9.32,-10.68 -6.35999,0 -9.52,4.68 -9.52,10.64 0,5.95999 3.72001,10.28 9.8,10.28 4.12,0 7.56,-2.20001 8.92,-6.12 l -5.16,-0.84 c -0.76,1.56 -1.92,2.68 -3.76,2.68 -2.91999,0 -3.88,-2.80001 -3.88,-5.28 l 12.92,0 m -12.76,-3.48 c 0.28,-2.04 1.52,-3.96 3.76,-3.96 2.16,0 3.44,1.96 3.72,3.96 l -7.48,0"
-         id="path56"
-         style="fill:#212121;fill-opacity:1" />
+         id="path56" />
     </g>
     <g
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#757575;fill-opacity:1;stroke:none;font-family:Merriweather;-inkscape-font-specification:Merriweather"
