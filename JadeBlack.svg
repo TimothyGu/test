@@ -28,7 +28,7 @@
      inkscape:window-height="744"
      id="namedview58"
      showgrid="false"
-     inkscape:zoom="1.8003638"
+     inkscape:zoom="1"
      inkscape:cx="135.30503"
      inkscape:cy="81.342811"
      inkscape:window-x="65"
@@ -46,7 +46,7 @@
          flood-opacity="0.37"
          flood-color="rgb(0,0,0)"
          result="flood"
-         stdDeviation="0.5" />
+         stdDeviation="1" />
       <feComposite
          id="feComposite4059"
          in="flood"
@@ -56,12 +56,12 @@
       <feGaussianBlur
          id="feGaussianBlur4061"
          in="composite"
-         stdDeviation="0.40000000000000002"
+         stdDeviation="0.4"
          result="blur" />
       <feOffset
          id="feOffset4063"
-         dx="-0.29999999999999999"
-         dy="0.90000000000000002"
+         dx="-0.4"
+         dy="1.2"
          result="offset" />
       <feComposite
          id="feComposite4065"
